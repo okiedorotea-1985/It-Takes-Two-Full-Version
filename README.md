@@ -251,3 +251,6 @@ This repository serves as the official landing page for **It Takes Two**. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of It Takes Two today!**
+
+---
+**Last updated:** 2026-09-12 00:52:41 UTC
