@@ -253,4 +253,4 @@ This repository serves as the official landing page for **It Takes Two**. The so
 **Get the most recent version of It Takes Two today!**
 
 ---
-**Last updated:** 2026-09-24 18:07:44 UTC
+**Last updated:** 2026-09-24 21:55:51 UTC
